@@ -11,4 +11,4 @@ http://localhost:3000/api/MethodYouWantToTestIsCallHere!!!NeedToBeChange!!!
 
 ## Enviromments Variables
 Create a files .env copy/paste the variable  like so --> DATABASE_URL=YourConnectionStringHereMyFriend!!!!!
-Make sure you change the connection string to your database
+### Make sure you change the connection string to your database
