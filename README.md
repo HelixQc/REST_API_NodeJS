@@ -97,7 +97,7 @@ This project is licensed under the **MIT License**. By using, modifying, or dist
    - You may use, copy, modify, and distribute the software freely, but don’t forget to include the copyright notice.  
    - Don’t hold **ME** responsible for anything that goes wrong. Use at your own risk!  
 3. 🔐 **Usage**:  
-   - Feel free to use the software for personal, educational play nice and respect the terms.  
+   - Feel free to use the software for personal or educational use only, play nice and respect the terms.  
 4. ⚠️ **Liability**:  
    - **Gaby Langis** is not liable for any damages, issues, or bad vibes that arise from the use or misuse of this software. Use it wisely! 📄
 
