@@ -37,7 +37,7 @@ http://localhost:3000/api/Endpoint
 To set up your environment, you will need to create an `.env` file in the root of your project. This file will contain configuration for sensitive variables like your database connection. 
 
 Here's a sample format for the `.env` file: DATABASE_URL=YourConnectionString
-> **Important:** Make sure to replace `YourConnectionStringHere` with your actual database connection string. This is crucial for connecting the API to your database.
+> **Important:** Make sure to replace `YourConnectionString` with your actual database connection string. This is crucial for connecting the API to your database.
 
 ---
 
