@@ -82,6 +82,12 @@ The API provides the following  endpoints:
    Your API should now be running on [http://localhost:3000](http://localhost:3000).
 
 ---
+
+## ⚠️ **Disclaimer**
+
+This project is not a fully production-ready authentication service. It is a simplified implementation designed **for educational purposes only**. The API is not meant for use in a production environment or for handling sensitive or real-world authentication data.
+
+---
 ## 🛡️ License
 
 This project is licensed under the **MIT License**. By using, modifying, or distributing the code, you agree to the following terms:
@@ -91,7 +97,7 @@ This project is licensed under the **MIT License**. By using, modifying, or dist
    - You may use, copy, modify, and distribute the software freely, but don’t forget to include the copyright notice.  
    - Don’t hold **ME** responsible for anything that goes wrong. Use at your own risk!  
 3. 🔐 **Usage**:  
-   - Feel free to use the software for personal, educational, or even commercial purposes—just play nice and respect the terms.  
+   - Feel free to use the software for personal, educational play nice and respect the terms.  
 4. ⚠️ **Liability**:  
    - **Gaby Langis** is not liable for any damages, issues, or bad vibes that arise from the use or misuse of this software. Use it wisely! 📄
 
