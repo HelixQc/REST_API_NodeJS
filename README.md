@@ -26,9 +26,9 @@ Feel free to check it out for frontend integration!
 
 You can interact with the API using **Postman**. To test the API, simply import the Postman collection provided or use the following base URL:
 
-http://localhost:3000/api/<Endpoint>
+http://localhost:3000/api/`<Endpoint>`
 
-> **Note:** Replace `<MethodYouWantToTestHere>` with the appropriate method or endpoint you wish to call.
+> **Note:** Replace `<Endpoint>` with the appropriate method or endpoint you wish to call.
 
 
 
